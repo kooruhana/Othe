@@ -1,3 +1,5 @@
+UC Irvine Rong, Yuchen
+
 1: Create a new python project with this 4 files
 2: Run Othello_GUI.py
 
